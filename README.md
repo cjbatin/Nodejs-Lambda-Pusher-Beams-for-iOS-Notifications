@@ -10,9 +10,9 @@ iOS - Clone or download the repo onto your machine.
 
 ### Prerequisites
 
-* A free AWS account. You can create one here.
-* A free Pusher account. You can create one here.
-* NodeJS installed on your local machine. Download here.
+* A free AWS account.
+* A free Pusher account.
+* NodeJS installed on your local machine.
 * Xcode 10+
 * MacOS
 * An iOS device for testing notifications.
