@@ -2,7 +2,7 @@
 
 An example project that accompanies my tutorial on using AWS NodeJS Lambda and Pusher Beams for iOS Notifications.
 
-https://pusher.com/tutorials/rich-notifications-vapor-part-1
+https://pusher.com/tutorials/aws-lambda-nodejs-ios-notifications
 
 ## Getting Started
 
